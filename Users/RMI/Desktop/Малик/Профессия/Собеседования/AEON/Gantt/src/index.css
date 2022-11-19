@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:100,300,400");
+
+* {
+    box-sizing: border-box;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    color: #262842;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: unset;
+}
+
+p, span, div {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+}
+
+*::-webkit-scrollbar {
+    width: 5px;
+    border-radius: 50px;
+}
+
+*::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: rgb(46, 93, 170);
+}

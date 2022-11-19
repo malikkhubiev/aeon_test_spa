@@ -1,0 +1,58 @@
+// colors
+@buttonBorder: #2628421f;
+@tableBack: #F7F8FC;
+
+// common
+h1{
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 500;
+}
+// usual
+.section{
+    max-width: 1440px;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    padding: 25px;
+}
+.section_header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.export_button{
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: 1px solid @buttonBorder;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.export_button img{
+    margin-right: 12px;
+}
+.section_body{
+    overflow: hidden;
+    margin-top: 18px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    position: relative;
+}
+.section_body::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    right: -7px;
+    width: 1px;
+    height: 100%;
+    background-color: #000;
+    box-shadow: -4px 2px 8px rgb(16 31 43 / 69%);
+}
