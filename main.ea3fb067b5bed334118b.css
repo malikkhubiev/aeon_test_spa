@@ -1,0 +1,302 @@
+.LUWj5Ftfy0L4jNYTrfZp {
+  width: 22px;
+  height: 100%;
+  border-right: 1px solid #2628421f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  font-size: 12px;
+}
+
+.xrCig9ZsEP7ysUDJjdaw {
+  width: 154px;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+  background-color: #F7F8FC;
+  border-right: 1px solid #2628421f;
+  font-size: 12px;
+}
+
+.FBWP5PXFx8BYfyMB17oH {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+}
+.KBvdEPLvhChfnymXtUr7 {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+  height: 50px;
+  border-top: 1px solid #2628421f;
+  border-bottom: 1px solid #2628421f;
+}
+.eSsQPETuMGtDrypGkKax {
+  width: 100%;
+  height: 23px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: nowrap;
+  border-bottom: 1px solid #2628421f;
+}
+.m11gBY7qgOqEzQYTVcYW {
+  width: 100%;
+  height: 24px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+table {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
+tr {
+  height: 40px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+td {
+  width: 22px;
+  height: 100%;
+  border-right: 1px solid #2628421f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.fDBmzTwxlUmgBgbKTqTk {
+  height: 20px;
+  width: 100%;
+  border: 1px solid;
+  border-radius: 4px;
+}
+.FKUCbgjn38fHAkZiNpGH {
+  height: 20px;
+  width: 100%;
+  border-top: 1px solid;
+  border-left: 1px solid;
+  border-bottom: 1px solid;
+  border-radius: 4px 0 0 4px;
+}
+.ZA95vHo4ZT_mldTXU48w {
+  height: 20px;
+  width: 100%;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+}
+.q0AGMVKOLoMnRaSPF2JA {
+  height: 20px;
+  width: 100%;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  border-right: 1px solid;
+  border-radius: 0 4px 4px 0;
+}
+.lblBEHFWGVgTWaVLm4sm {
+  position: absolute;
+  top: 50%;
+  right: -30px;
+  transform: translateY(-50%);
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.daz53tPq76yIjji217QJ {
+  width: 390px;
+  height: 40px;
+  background-color: #fff;
+  border: 1px solid #2628421f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.Oq8baEKMXpAB0NdUFE6j {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 15px 20px;
+}
+.jADuLWXWzzqT4wG6V7aS {
+  cursor: pointer;
+  background-color: transparent;
+  border: 0;
+}
+._5IDXZTN3YAfXXAMpCyoQ {
+  margin-left: 5px;
+  background: #F5F1FE;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.dJji1MhEaNNicp3sNx5m {
+  font-style: italic;
+  margin-left: 4px;
+  color: #8B8C9E;
+  font-size: 12px;
+}
+.KCj1rfoqrXkR8YnDUJu9 {
+  margin-left: 8px;
+  font-weight: 600;
+}
+
+.BvnG4fbkyDMdtFqDd2HR {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+}
+.KPqDatrIICNYS8ezoIB0 {
+  width: 100%;
+  padding: 15px 20px;
+  background-color: #F7F8FC;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  border-radius: 10px 0px 0px 0px;
+  border: 1px solid #2628421f;
+}
+._bcsr30y0JUxJOUVVwZs {
+  cursor: pointer;
+  width: 390px;
+  height: 285px;
+  border: 1px solid #2628421f;
+  border-radius: 0px 0px 0px 10px;
+}
+
+h1 {
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 500;
+}
+.J2MkkYIVBKwnEQAueR8k {
+  max-width: 1440px;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+  padding: 25px;
+}
+.DjDzHREU2obh8nVZqeRz {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.d9Ol9zVaysnJB50WjBbn {
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  border: 1px solid #2628421f;
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.d9Ol9zVaysnJB50WjBbn img {
+  margin-right: 12px;
+}
+.gH8fe3qSkxvEDanT6iPg {
+  overflow: hidden;
+  margin-top: 18px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  position: relative;
+}
+.gH8fe3qSkxvEDanT6iPg::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: -7px;
+  width: 1px;
+  height: 100%;
+  background-color: #000;
+  box-shadow: -4px 2px 8px rgba(16, 31, 43, 0.69);
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf) format('truetype');
+}
+* {
+  box-sizing: border-box;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+  color: #262842;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+a {
+  text-decoration: none;
+  color: unset;
+}
+p,
+span,
+div {
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0em;
+}
+*::-webkit-scrollbar {
+  width: 5px;
+  border-radius: 50px;
+}
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+*::-webkit-scrollbar-thumb {
+  background-color: #2e5daa;
+}
+
